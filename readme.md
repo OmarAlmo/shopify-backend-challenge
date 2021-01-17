@@ -1,7 +1,7 @@
 # Instalation
 ### Using docker
 1. `chmod -x run.sh && sh run.sh`
-6. go to `http://localhost:3000/graphql` to test queries  or import `insomnia-workspace,json` into insomnia with prepared queries
+6. go to `http://localhost:3000/graphql` to test queries  or import `insomnia-workspace.json` into insomnia with prepared queries
 
 ### From source
 0. install:
